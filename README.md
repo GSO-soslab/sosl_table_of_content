@@ -53,3 +53,5 @@ This readme lists our repositories and the links for better access.
 - [jackal setup](https://github.com/GSO-soslab/jackal_ocg120g): Jackal setup for OCG120G class.
 
 - [AUV manual](https://github.com/GSO-soslab/sosl_auv_manual): a manual for operate AUV running MVP and how to customize mvp.
+
+- [alpha_hardware](https://github.com/GSO-soslab/alpha_hardware_release): CAD and PCB design files for Alpha auv
