@@ -47,7 +47,8 @@ This readme lists our repositories and the links for better access.
 - [Nortek DVL-1000](https://github.com/GSO-soslab/nortek_dvl_ethernet): ROS driver for Nortek DVL-1000 (Ethernet version).
 
 - [Nortek DVL-1000](https://github.com/GSO-soslab/nortek_dvl): ROS driver for Nortek DVL-1000 (serial version).
-
+- 
+- [Blueprint Oculus](https://github.com/GSO-soslab/blueprint_oculus_sonar): ROS driver for Blueprint Oculuse multibeam image sonar.
 
 # Others
 - [jackal setup](https://github.com/GSO-soslab/jackal_ocg120g): Jackal setup for OCG120G class.
