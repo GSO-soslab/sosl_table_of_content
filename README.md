@@ -10,6 +10,8 @@ This readme lists our repositories and the links for better access.
 
 - [stonefish_mvp](https://github.com/uri-ocean-robotics/stonefish_mvp): a modified ros wrapper for the great [Stonefish simulator](https://github.com/patrykcieslak/stonefish).
 
+- [mvp_gui](https://github.com/GSO-soslab/mvp_gui): a simple GUI for monitoring and piloting vehicles using mvp framework (currrently under development)
+
 - Reference
     - [Ocean's paper](https://ieeexplore.ieee.org/abstract/document/9977346): information about the original MVP design. Software has been consistently updated since then.
     - [Thesis](https://www.proquest.com/docview/2766097939?pq-origsite=gscholar&fromopenview=true). A detailed information about the design of the MVP framework from the original creator Emir.
