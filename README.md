@@ -36,11 +36,11 @@ This readme lists our repositories and the links for better access.
 
 
 # Sensor drivers
-- [BlueRobotics Ping360](https://github.com/GSO-soslab/bluerobotics_ping360/tree/aa4834644963b24a9c4dc10f6e6268c0e43f88b7): ROS-noetic driver for Ping 360 with modifications to produce point cloud data.
+- [BlueRobotics Ping360](https://github.com/GSO-soslab/bluerobotics_ping360): ROS-noetic driver for Ping 360 with modifications to produce point cloud data.
 
-- [BlueRobotics Bar30](https://github.com/GSO-soslab/bluerobotics_pressure/tree/237903a1485b3bd5c51d471c291b6e90f11d7654): Blue Robotics Bar30 pressure tempreature sensor ROS driver.
+- [BlueRobotics Bar30](https://github.com/GSO-soslab/bluerobotics_pressure): Blue Robotics Bar30 pressure tempreature sensor ROS driver.
 
-- [Power monitoring](https://github.com/GSO-soslab/power_monitor/tree/86118e67194bd37db8fe7205e9260bc41fd4eec7): ROS driver to interface with MCP3422 ADC chip to read system voltage and current.
+- [Power monitoring](https://github.com/GSO-soslab/power_monitor): ROS driver to interface with MCP3422 ADC chip to read system voltage and current.
 
 - [Waterlinked DVL](https://github.com/uri-ocean-robotics/waterlinked_dvl/tree/jazzy-devel): Water Linked DVL ROS driver (ethernet).
 
