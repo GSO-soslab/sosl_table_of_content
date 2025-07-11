@@ -42,7 +42,7 @@ This readme lists our repositories and the links for better access.
 
 - [Power monitoring](https://github.com/GSO-soslab/power_monitor/tree/86118e67194bd37db8fe7205e9260bc41fd4eec7): ROS driver to interface with MCP3422 ADC chip to read system voltage and current.
 
-- [Waterlinked DVL](https://github.com/uri-ocean-robotics/waterlinked_dvl/tree/31216e175184bc7f410d29df7858110b1db75d26): Water Linked DVL ROS driver (ethernet).
+- [Waterlinked DVL](https://github.com/uri-ocean-robotics/waterlinked_dvl/tree/jazzy-devel): Water Linked DVL ROS driver (ethernet).
 
 - [XSens MTi600](https://github.com/GSO-soslab/xsens_mti_ros_driver/tree/7aa46b7f0a0576609062aaf46c518940e5fb4853): XSens MTi ROS driver, tested on 600-series and 1-series.
 
