@@ -2,7 +2,7 @@
 This readme lists our repositories and the links for better access.
 
 # ROS Marine Vehicle Packages (ROS-MVP)
-- [mvp_mission](https://github.com/uri-ocean-robotics/mvp_mission):  MVP Helm and beahvior plugins.
+- [mvp_mission](https://github.com/uri-ocean-robotics/mvp_mission):  MVP Helm and behavior plugins.
 
 - [mvp_control](https://github.com/uri-ocean-robotics/mvp_control): low-level vehicle control using thruster allocation and QP solver.
 
