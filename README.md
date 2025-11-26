@@ -1,20 +1,29 @@
 # Github repository TOC
 This readme lists our repositories and the links for better access.
 
-# ROS Marine Vehicle Packages (ROS-MVP)
+# ROS Marine Vehicle Packages (ROS-MVP): Current ROS-Version: JAZZY
 - [mvp_mission](https://github.com/uri-ocean-robotics/mvp_mission):  MVP Helm and beahvior plugins.
 
 - [mvp_control](https://github.com/uri-ocean-robotics/mvp_control): low-level vehicle control using thruster allocation and QP solver.
 
 - [mvp_msgs](https://github.com/uri-ocean-robotics/mvp_msgs): MVP messages and services. 
 
-- [stonefish_mvp](https://github.com/uri-ocean-robotics/stonefish_mvp): a modified ros wrapper for the great [Stonefish simulator](https://github.com/patrykcieslak/stonefish).
+- [mvp_gui](https://github.com/GSO-soslab/mvp_gui_2): a simple GUI for monitoring and piloting vehicles using mvp framework 
 
-- [mvp_gui](https://github.com/GSO-soslab/mvp_gui): a simple GUI for monitoring and piloting vehicles using mvp framework (currrently under development)
+- [mvp_c2](https://github.com/GSO-soslab/mvp_c2): control and command system for two-way data transfer using UDP or serial, works with MVP GUI2
+
+- [mvp2_test_robot](https://github.com/GSO-soslab/mvp2_test_robot): a demo vehicle for testing our mvp_framework
+
+- [world_of_stonefish](https://github.com/GSO-soslab/world_of_stonefish): stonefish simulation files for our vehicles.
 
 - Reference
     - [Ocean's paper](https://ieeexplore.ieee.org/abstract/document/9977346): information about the original MVP design. Software has been consistently updated since then.
     - [Thesis](https://www.proquest.com/docview/2766097939?pq-origsite=gscholar&fromopenview=true). A detailed information about the design of the MVP framework from the original creator Emir.
+
+# Forks of major external resources
+- [stonefish](https://github.com/GSO-soslab/stonefish)
+- [stonefish_ros2](https://github.com/GSO-soslab/stonefish_ros2)
+- [osqp](https://github.com/GSO-soslab/osqp)
 
 
 # Under-ice nav
