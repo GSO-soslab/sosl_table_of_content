@@ -6,7 +6,11 @@ This readme lists our repositories and the links for better access.
 
 - [mvp_control](https://github.com/uri-ocean-robotics/mvp_control): low-level vehicle control using thruster allocation and QP solver.
 
-- [mvp_msgs](https://github.com/uri-ocean-robotics/mvp_msgs): MVP messages and services. 
+- [mvp_msgs](https://github.com/uri-ocean-robotics/mvp_msgs): MVP messages and services.
+
+- [mvp_hardware_drivers](https://github.com/uri-ocean-robotics/mvp_hardware_drivers): include all sensor drivers we used.
+
+- [mvp_utilites](https://github.com/uri-ocean-robotics/mvp_utilities): include a list of tools for mvp
 
 - [mvp_gui](https://github.com/GSO-soslab/mvp_gui_2): a simple GUI for monitoring and piloting vehicles using mvp framework 
 
@@ -14,8 +18,9 @@ This readme lists our repositories and the links for better access.
 
 - [mvp2_test_robot](https://github.com/GSO-soslab/mvp2_test_robot): a demo vehicle for testing our mvp_framework
 
-- [world_of_stonefish](https://github.com/GSO-soslab/world_of_stonefish): stonefish simulation files for our vehicles.
+- [world_of_stonefish](https://github.com/GSO-soslab/world_of_stonefish): stonefish simulation files for our vehicles, and drivers to connect to mvp
 
+  
 - Reference
     - [Ocean's paper](https://ieeexplore.ieee.org/abstract/document/9977346): information about the original MVP design. Software has been consistently updated since then.
     - [Thesis](https://www.proquest.com/docview/2766097939?pq-origsite=gscholar&fromopenview=true). A detailed information about the design of the MVP framework from the original creator Emir.
