@@ -19,6 +19,8 @@ This readme lists our repositories and the links for better access.
 - Reference
     - [Ocean's paper](https://ieeexplore.ieee.org/abstract/document/9977346): information about the original MVP design. Software has been consistently updated since then.
     - [Thesis](https://www.proquest.com/docview/2766097939?pq-origsite=gscholar&fromopenview=true). A detailed information about the design of the MVP framework from the original creator Emir.
+    - [AUV2024 Paper](https://ieeexplore.ieee.org/abstract/document/11030404): a more recent paper on mvp framework
+
 
 # Forks of major external resources
 - [stonefish](https://github.com/GSO-soslab/stonefish)
@@ -60,6 +62,8 @@ This readme lists our repositories and the links for better access.
 - [Nortek DVL-1000](https://github.com/GSO-soslab/nortek_dvl): ROS driver for Nortek DVL-1000 (serial version).
   
 - [Blueprint Oculus](https://github.com/GSO-soslab/blueprint_oculus_sonar): ROS driver for Blueprint Oculuse multibeam image sonar.
+
+- [microstrain IMU](https://github.com/GSO-soslab/microstrain_inertial)
 
 # Others
 - [jackal setup](https://github.com/GSO-soslab/jackal_ocg120g): Jackal setup for OCG120G class.
